@@ -1,1 +1,1 @@
-# first-repo
+# Repositório para estudos!
