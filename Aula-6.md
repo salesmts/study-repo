@@ -1,9 +1,9 @@
 **Aula 6 - Fundamentos de Programação**
 
 # Paradigmas
-1. Está ligado à forma de pensar do programador
+1. Está ligado à forma de pensar do programador;
 
-2. O paradigma permite ou proíbe algumas técnicas
+2. O paradigma permite ou proíbe algumas técnicas;
 
 3. Paradigma estrutural/imperativo -> Pode ser quebrado em sub-rotinas ou funções.
 
