@@ -5,7 +5,7 @@
 
 2. O paradigma permite ou proíbe algumas técnicas;
 
-3. Paradigma estrutural/imperativo -> Pode ser quebrado em sub-rotinas ou funções.
+3. Paradigma estrutural/imperativo -> Pode ser quebrado em sub-rotinas ou funções;
 
 4. Paradigma de **Orientação a objetos**
     5. Coleção de objetos que interajem por meio de troca de mensagens.
