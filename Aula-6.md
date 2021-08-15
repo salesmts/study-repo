@@ -15,3 +15,5 @@
 7. Conjunto de objetos com mesma informação e mesmo comportamento = **classe**.
 
 > OBS: Qualquer paradigma pode ser aplicado a qualquer linguagem, cabe ao programador  ter habilidade para tal.
+
+Fim da aula
