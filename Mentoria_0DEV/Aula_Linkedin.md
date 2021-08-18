@@ -1,6 +1,6 @@
-## Aula sobre Linkedin
+# Aula sobre Linkedin
 
-**Básico sobre a plataforma**
+## Básico sobre a plataforma
 - Linkedin Business -> Ferramenta paga para encontrar talentos;
 
 - Linkedin que utilizamos "normal";
@@ -13,7 +13,7 @@
 
 - Linkedin Premium: quebra todos os sigilos, enviar mensagens para pessoas privadas, gráficos e dashboard;
 
-**Algoritmo**
+## Algoritmo
 
 - Visão do recrutador;
 - Busca direcionada;
@@ -29,29 +29,30 @@
 - Dois tipos de mensagens são enviadas pelos recrutadores: e-mail pagos (linkedin business), e mensagens pelo direct.
 >- Montar o perfil em Português e em inglês!
 
-**Funcionamento do Algoritmo**
+### Funcionamento do Algoritmo
 
 - O algoritmo analisa todo o seu perfil, para te rankear nas buscas;
 - Quantas aparições na busca, e quantas vezes fui contactado?
 - Tudo isso é influenciado pela configuração do seu perfil!
 - Pensar no meu perfil como a minha marca!
 
-***Recrutador***
+### Recrutador
 
 - Ele traça seu perfil para repassar ao gestor;
 - Ajude o recrutador a entender você facilmente, use o básico!
 
-**Configuração**
+### Configuração
 
 - Headline conta muito! (Usar |)
 - Skills mais importantes!
 - Recomendações são importantes!
 - ***Fazer o Quiz Skills!***
 
-1. Palavras Chaves
+**1. Palavras Chaves**
     - Principais pontos relevantes do meu perfil.
 
-2. Adicionar habilidades relevantes para o cargo que almeja, que tenham ligação com o cargo futuro;
+**2. Adicionar habilidades relevantes para o cargo**
+ 
     - Você não monta o seu perfil para hoje, mas sim para a vaga que você quer no futuro!
     - Mudança de empresa, tem que pular de galho e aproveitar novas oportunidades! 
     - Certificados não são pedidos! Você tem que saber fazer!
